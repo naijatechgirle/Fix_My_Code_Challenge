@@ -1,4 +1,12 @@
-1. Open the file containing the Linux mascot.
-2. Marvel at its beauty.  
-![penguin](https://github.com/naijatechgirle/Fix_My_Code_Challenge/assets/56093810/38e90d75-bd9c-4bb7-b861-4170c3eb9001)
-3. Close the file.
+0x00. Fix my code
+
+Background Context Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
+
+Sometimes you will know the language, sometimes not.
+
+Please download the repository 0x00-Fix_My_Code_Challenge and use it as initial files for all solutions.
+
+You should not recode everything, just fix it!
+
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
